@@ -10,9 +10,9 @@ export function Inicio() {
      <Header text="Meu site pessoal" image={homeImg} />
      <div className={styles.homeContainer}>
       <div className={styles.cardContainer}>
-        {/* <Butterfly size={150} color="#686AAC" weight="thin" /> */}
+        <Butterfly size={150} color="#686AAC" weight="thin" />
         <h2 className={styles.cardTitle}>Trajetória</h2>
-        <p className={styles.cardText}> Aqui eu falo um pouco sobre mim, sobre minha trajetória, minha transição de carreira e minhas vivencias até aqui .</p>
+        <p className={styles.cardText}> Aqui eu falo um pouco sobre mim, sobre minha trajetória, minha transição de carreira e minhas vivencias até aqui.</p>
       </div>
       <div className={styles.cardContainer}>
         <BracketsCurly size={150} color="#686AAC" weight="thin"/>

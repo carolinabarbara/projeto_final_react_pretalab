@@ -1,10 +1,8 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-
 import { Inicio } from './pages/Inicio'
 import { Contato } from './pages/Contato'
 import { Portfolio } from './pages/Portfolio'
 import { Sobre } from './pages/Sobre'
-
 import { Menu } from './components/Menu'
 import { Footer } from './components/Footer'
 

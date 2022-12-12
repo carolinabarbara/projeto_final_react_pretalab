@@ -1,0 +1,42 @@
+.proj {
+  margin-top: 50px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  text-align: center;
+  color: #65647c;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.titleProj {
+  margin-top: 70px;
+  text-align: center;
+  color: #65647c;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.imgProj {
+  margin: 50px;
+  width: 800px;
+}
+
+.textoProj {
+  font-size: 1.2rem;
+  padding: 30px;
+  display: table-cell;
+  float: left;
+  margin-top: -20px;
+  margin-left: 20px;
+}
+
+.linkProj {
+  color: #fff;
+  background-color: #474a51;
+  padding: 9px 9px;
+  font-size: 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}

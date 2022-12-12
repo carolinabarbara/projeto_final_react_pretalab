@@ -18,7 +18,7 @@ export function Sobre(){
     paulista, nascida e criada na cidade de São Paulo, 
     tenho 31 anos sou formada em Gestão financeira e trabalho na area desde 2009.
     Estudante de programação Front-End na PretaLab, onde aprendemos muitas hard skills e aperfeiçoamos nossas soft skills.
-    Meu sonho é programar o mundo! Além da programar, eu amo viajar, aprender coisas novas, e nas horas vagas faço macramê 💜.
+    Meu sonho é programar o mundo! Além da programar, eu amo viajar, aprender coisas novas, e nas horas vagas faço macramê 💜   .
     </p>
     </div>
     </dev>
