@@ -10,6 +10,10 @@
 ## Sobre o projeto 🧠
 
 <br />
+
+![image](./src/assets/carinha_do_site.jpg)
+
+<br />
 💻 Nesse projeto treino os conceitos fundamentais de ReactJS aprendido no Ciclo formativo 2 pela PretaLab ✊🏾
 
 ---
@@ -94,3 +98,4 @@ Siga os passos e inclua as informações abaixo:
 
 - [linkedin](https://www.linkedin.com/in/carolinabarbara-dev/)
 - [github](https://github.com/carolinabarbara)
+
