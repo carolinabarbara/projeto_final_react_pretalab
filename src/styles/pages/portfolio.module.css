@@ -1,35 +1,28 @@
 .proj {
-  margin-top: 50px;
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-  gap: 30px;
+  width: 100%;
+  color: #686aac;
   text-align: center;
-  color: #65647c;
-  font-size: 2rem;
-  font-weight: 700;
+  padding-top: 6rem;
 }
 
 .titleProj {
   margin-top: 70px;
   text-align: center;
   color: #65647c;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
 }
 
 .imgProj {
   margin: 50px;
-  width: 800px;
+  width: 50%;
 }
 
 .textoProj {
   font-size: 1.2rem;
   padding: 30px;
-  display: table-cell;
-  float: left;
   margin-top: -20px;
-  margin-left: 20px;
+  text-decoration: none;
 }
 
 .linkProj {

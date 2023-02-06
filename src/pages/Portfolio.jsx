@@ -11,9 +11,8 @@ export function Portfolio(){
     return(
         <>
         <Header text= 'Meus projetos' image ={portfolioImg} />
+        <div className={styles.projeto}></div>
         <div className={styles.titleProj}>Favoritos</div>
-        <div className={styles.proj}></div>
-
         <img className={styles.imgProj} src={portImg} />
         <h4>Portfolio</h4>
         <p className={styles.textoProj}> Projeto desenvolvido no modulo de HTML e CSS </p>
